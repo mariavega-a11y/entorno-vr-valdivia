@@ -13,4 +13,4 @@ Proyecto de Realidad Virtual desarrollado en Unity para visores Meta Quest (stan
 3. **Munición / Balas:** Objetos físicos manipulables dentro de la escena.
 
 ## Descarga de la Aplicación (APK)
-* **Instalador para Meta Quest:** [Descargar APK desde Google Drive]((https://drive.google.com/file/d/1rgFj_vbn6JQrVByupb_SUPOT9F-9oWZc/view?usp=drive_link))
+* **Instalador para Meta Quest:** [Descargar APK desde Google Drive](https://drive.google.com/file/d/1rgFj_vbn6JQrVByupb_SUPOT9F-9oWZc/view?usp=drive_link)
